@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		
 		System.out.println("some changes done over here");
+		System.out.println("new changes");
 
 	}
 
