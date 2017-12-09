@@ -7,6 +7,10 @@ public class GitTest {
 		
 		System.out.println("some changes done over here");
 		System.out.println("new changes");
+		for(int i=0;i<=10;i++)
+		{
+			System.out.println("value :"+i);
+		}
 
 	}
 
